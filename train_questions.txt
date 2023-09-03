@@ -1,0 +1,40 @@
+What factors could result in less demand for existing products?
+How could new or unexpected end use cases impact demand for products?
+What potential competitive actions could increase demand for competitive products?
+How could business decisions made by third parties affect demand for products?
+What factors could impact the demand for accelerated or AI-related cloud services?
+How could the demand for cryptocurrency mining impact product demand?
+What potential government actions or changes in policies could affect gaming usage and demand?
+What factors have contributed to the significant growth in supply for the company?
+How could misalignment between inventory/supply commitments and product demand result in inventory provisions?
+How have product transitions negatively impacted the company's revenue in the past?
+What challenges are associated with architecture transitions for Data Center, Professional Visualization, and Gaming products?
+How could customer anticipation of product transitions and channel partners reducing inventory impact revenue?
+What risks are associated with executing architectural transitions as planned?
+How have decisions made by channel partners, distributors, and retailers impacted the company's ability to forecast demand?
+What risks are associated with underestimating customer demand for products?
+How could inadequate lead-time or capacity from foundry partners impact the company's ability to meet customer demand?
+What risks are associated with overestimating customer demand for products?
+How have reductions in average selling prices impacted the company in the past?
+What risks are associated with price increases for certain products due to supplier price increases?
+How have inventory write-downs, cancellation penalties, and impairments impacted the company in the past?
+What are the direct acquisition costs that are not associated with providing ongoing future benefit to the combined company?
+What are the certain compensation costs associated with an acquisition?
+How are exchange rate effects excluded in the financial calculations?
+How are changes to generally accepted accounting principles excluded in the financial calculations?
+What is the purpose of excluding statutory adjustments to corporate tax rates or changes in tax legislation?
+How are tax-related settlements excluded in the financial calculations?
+What is the significance of excluding items of an unusual nature or of infrequency of occurrence?
+How are the dilutive effects of acquisitions or joint ventures excluded in the financial calculations?
+What is the impact of any change in the outstanding shares of Common Stock on the financial calculations?
+How are bonuses awarded under the Company's bonus plans excluded in the financial calculations?
+Why are impairments of long-lived assets including goodwill and intangible asset impairment charges excluded in the financial calculations?
+What other significant events are excluded from the ongoing business operations in the financial calculations?
+How are divested businesses accounted for in the financial calculations?
+What are non-operational credits and how are they included in the financial calculations?
+What adjustments can be made by the Board if an Award is not intended to qualify as "performance-based compensation" under Section 162(m) of the Code?
+How is the Performance Period determined for the purpose of determining a Participant's right to and the payment of a Stock Award or a Performance Cash Award?
+What is a Performance Stock Award and how is it granted?
+What is the NVIDIA Corporation Amended and Restated 2007 Equity Incentive Plan?
+What are the Prior Plans in relation to the NVIDIA Corporation Amended and Restated 2007 Equity Incentive Plan?
+What is a Restricted Stock Award and how is it granted?
